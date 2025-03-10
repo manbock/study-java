@@ -5,6 +5,7 @@
 
 #변수타입
 정수 > byte, short, int, long
+
 실수 > float(4byte), double(8byte)
 
 ![image](https://github.com/user-attachments/assets/7fd377c1-8a29-417b-8e95-4604cda5ea2c)
